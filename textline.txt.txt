@@ -1,0 +1,1 @@
+Hi this is praveen, This is audio file and it will convert the audio into the text and we use openai-whisper for the transcribe.
